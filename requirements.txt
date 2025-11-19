@@ -1,0 +1,22 @@
+# Archivo de dependencias para el proyecto FinSecure SpA.
+# Incluye librerías para el entrenamiento del MLP, manejo de datos y el Mockup de Streamlit.
+
+# Base de datos y procesamiento numérico
+pandas
+numpy
+
+# Visualización (requeridas por el Notebook para los gráficos)
+matplotlib
+seaborn
+
+# Scikit-learn (Modelado y Preprocesamiento)
+scikit-learn
+
+# Joblib (Guardado/Carga del Modelo)
+joblib
+
+# Imblearn (Manejo del Desbalance de Clases - SMOTE)
+imblearn
+
+# Streamlit (Dashboard/Mockup Funcional)
+streamlit
