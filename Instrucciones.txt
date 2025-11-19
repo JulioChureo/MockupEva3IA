@@ -2,4 +2,5 @@ Para ver el mockup, se recomienda crear un entorno virtual y luego:
 1- Instalar las librerias, que se encuentran en el archvo "requirements.txt"
 2- Luego, en la PowerShell poner el siguiente comando:
     streamlit run .\mockup_finsecure.py 
-    
+
+PD: Si es necesario el data set, lo puede encontrar en el ambiente de aprendizaje.
