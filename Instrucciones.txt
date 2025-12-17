@@ -4,3 +4,12 @@ Para ver el mockup, se recomienda crear un entorno virtual y luego:
     streamlit run .\mockup_finsecure.py 
 
 PD: Si es necesario el data set, lo puede encontrar en el ambiente de aprendizaje.
+
+
+Para hacer correr la API
+
+uvicorn api:app --reload
+
+Luego abrir otra terminal y hacer los testing con python demo_request.py / python test_positivo.py
+
+Tambien se puede hacer abriendo el local host en el siguiente link: http://127.0.0.1:8000/docs
